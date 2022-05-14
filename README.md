@@ -1,6 +1,6 @@
 ### Salut ! 👋
 
-Actuellement étudiant en licence informatique à l'Université de Lorraine, je souhaiterais travailler dans le secteur du Génie Logiciel.
+Actuellement étudiant en Licence informatique à l'Université de Lorraine.
 
 ## Informations personnelles
 
